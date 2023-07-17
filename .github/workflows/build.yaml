@@ -1,4 +1,4 @@
-app: push
+on: push
 jobs:
   build-node:
     runs-on: ubuntu-latest
